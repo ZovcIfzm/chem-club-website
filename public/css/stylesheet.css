@@ -1,0 +1,23 @@
+body{
+    padding:20px;
+    opacity: 0.8;
+    background-image: url(../pictures/xander_taking_pH_data.JPG); 
+    background-repeat: no repeat;
+    font-family: verdana;
+}
+h1{margin: 0.5em 0 1.5em;}
+h3{margin-top: 0;}
+
+.row-relative{position:relative;}
+
+.col-border{
+    margin: 10px;
+    opacity: 0.9;
+    background-color: lightcyan;
+    border: 1px solid lightblue;
+}
+.col-border-padding{
+    padding-left: 10px;
+    padding-top: 10px;
+    margin: 0px;
+}
