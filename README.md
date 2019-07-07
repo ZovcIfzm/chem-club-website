@@ -1,9 +1,12 @@
-![alt text](https://raw.githubusercontent.com/Abhis16/chem-club-website/tree/master/public/img/readme-pictures/homepg1.png)
-![alt text](https://raw.githubusercontent.com/Abhis16/chem-club-website/tree/master/public/img/readme-pictures/homepg2.png)
-![alt text](https://raw.githubusercontent.com/Abhis16/chem-club-website/tree/master/public/img/readme-pictures/homepg3.png)
-![alt text](https://raw.githubusercontent.com/Abhis16/chem-club-website/tree/master/public/img/readme-pictures/homepg4.png)
-![alt text](https://raw.githubusercontent.com/Abhis16/chem-club-website/tree/master/public/img/readme-pictures/homepg5.png)
-![alt text](https://raw.githubusercontent.com/Abhis16/chem-club-website/tree/master/public/img/readme-pictures/homepg6.png)
+## Website preview
+
+![alt text](https://github.com/Abhis16/chem-club-website/blob/master/public/img/readme-pictures/homepg1.PNG)
+![alt text](https://github.com/Abhis16/chem-club-website/blob/master/public/img/readme-pictures/homepg2.PNG)
+![alt text](https://github.com/Abhis16/chem-club-website/blob/master/public/img/readme-pictures/homepg3.PNG)
+![alt text](https://github.com/Abhis16/chem-club-website/blob/master/public/img/readme-pictures/homepg4.PNG)
+![alt text](https://github.com/Abhis16/chem-club-website/blob/master/public/img/readme-pictures/homepg5.PNG)
+![alt text](https://github.com/Abhis16/chem-club-website/blob/master/public/img/readme-pictures/homepg6.PNG)
+
 <!--
 # [Start Bootstrap - Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/)
 
