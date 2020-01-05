@@ -1,5 +1,5 @@
 # Website preview
-## Live at https://ohs-chem-club-website.appspot.com/
+## Live at https://ohschemistryclub.appspot.com
 
 ![alt text](https://github.com/Abhis16/chem-club-website/blob/master/public/img/readme-pictures/homepg1.PNG)
 ![alt text](https://github.com/Abhis16/chem-club-website/blob/master/public/img/readme-pictures/homepg2.PNG)
